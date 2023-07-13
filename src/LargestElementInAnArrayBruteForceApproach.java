@@ -1,4 +1,4 @@
-public class LargestElementInAnArray {
+public class LargestElementInAnArrayBruteForceApproach {
     static int maxVal(int[] arr){
         int max=Integer.MIN_VALUE;
         for (int x:arr
